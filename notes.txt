@@ -1,1 +1,8 @@
 Java is a strongly typed language.
+By default Java supports "double" datatype.
+Java supports UNICODE not ASCII 
+Char - 2 bytes, double - 8 bytes, float - 4 bytes
+Boolean supports only true or false not 0 or 1.
+literals - nothing but values
+Explicit conversion is known as "Casting" and happens automatically is known as "Type Conversion".
+we can't do Boolean and Character coversions
